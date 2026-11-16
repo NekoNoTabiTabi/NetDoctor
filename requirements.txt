@@ -1,0 +1,2 @@
+# NetDoctor uses only the Python standard library (report, Table 1).
+# No third-party packages are required.
